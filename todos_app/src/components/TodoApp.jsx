@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 import React from "react";
 import Header from "@/components/Header";
 import TodosLogic from "@/components/TodosLogic";

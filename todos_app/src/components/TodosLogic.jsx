@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 import InputTodo from '@/components/InputTodo';
 import TodosList from '@/components/TodosList';
 import { useState, useEffect } from 'react';

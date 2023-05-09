@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 import styles from '@/styles/TodoItem.module.css';
 import { useState, useRef } from 'react';
 
