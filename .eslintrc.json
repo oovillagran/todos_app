@@ -13,7 +13,7 @@
     "sourceType": "module",
     "requireConfigFile": false // Add this line
   },
-  "extends": ["airbnb", "plugin:react/recommended", "plugin:react-hooks/recommended"],
+  "extends": ["airbnb", "plugin:react/recommended", "plugin:react-hooks/recommended", "eslint:recommended"],
   "plugins": ["react"],
   "rules": {
     "react/jsx-filename-extension": ["warn", { "extensions": [".js", ".jsx"] }],
